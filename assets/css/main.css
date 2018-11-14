@@ -43,7 +43,7 @@
 		overflow: auto;
 
         height: 100%;
-       
+
         position: relative;
 
 	}
@@ -327,7 +327,7 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #1da1f2 !important;
+			color: #FF5073 !important;
 			text-decoration: none;
 			body {
 				background-color: #000;
